@@ -55,8 +55,8 @@
                                     <li><a href="profil.php">Profil Sekolah</a></li>
                                     <li><a href="visi.php">Visi Dan Misi</a>
                                     <li><a href="organisasi.php">Struktur Organisasi</a>
-                                    <li><a href="#">Data Guru</a>
-                                    <li><a href="#">Akreditasi</a>
+                                    <li><a href="dataguru.php">Data Guru</a>
+                                    <li><a href="akreditasi.php">Akreditasi</a>
                                     <li><a href="#">Sarana</a>
                                      <ul>
                                             <li><a href="#">Ruang Kelas</a></li>
