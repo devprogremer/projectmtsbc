@@ -57,7 +57,7 @@
                                     <li><a href="organisasi.php">Struktur Organisasi</a>
                                     <li><a href="dataguru.php">Data Guru</a>
                                     <li><a href="akreditasi.php">Akreditasi</a>
-                                    <li><a href="#">Sarana</a>
+                                    <li><a href="sarana">Sarana</a>
                                      <ul>
                                             <li><a href="#">Ruang Kelas</a></li>
                                             

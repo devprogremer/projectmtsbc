@@ -203,6 +203,7 @@
         <div class="grid_6">
             <div class="wrap_6">
                 <div class="box_2 maxheight2">
+            
                     <div class="caption">
                         <h3 class="text_2 color_2">
                             Identitas Satuan Pendidikan <br/>
@@ -250,7 +251,7 @@
         <div class="row">
             <div class="grid_12">
                 <h2 class="header_1 wrap_8 color_3">
-                    ABOUT the Author
+                    What Clients Say
                 </h2>
             </div>
         </div>
