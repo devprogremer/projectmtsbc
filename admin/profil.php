@@ -276,7 +276,7 @@
       <li class="nav-item">
         <a class="nav-link collapsed" href="home.php">
           <i class="bi bi-grid"></i>
-          <span>Dashboard</span>
+          <span>Profil</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
