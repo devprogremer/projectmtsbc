@@ -250,7 +250,7 @@
         <div class="row">
             <div class="grid_12">
                 <h2 class="header_1 wrap_8 color_3">
-                    What Clients Say
+                    ABOUT the Author
                 </h2>
             </div>
         </div>
