@@ -203,7 +203,6 @@
         <div class="grid_6">
             <div class="wrap_6">
                 <div class="box_2 maxheight2">
-            
                     <div class="caption">
                         <h3 class="text_2 color_2">
                             Identitas Satuan Pendidikan <br/>
