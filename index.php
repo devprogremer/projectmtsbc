@@ -52,7 +52,7 @@
                             <li>
                                 <a href="#">Tentang Kami</a>
                                 <ul>
-                                    <li><a href="">Profil Sekolah</a></li>
+                                    <li><a href="profil.php">Profil Sekolah</a></li>
                                     <li><a href="visi.php">Visi Dan Misi</a>
                                     <li><a href="organisasi.php">Struktur Organisasi</a>
                                     <li><a href="dataguru.php">Data Guru</a>

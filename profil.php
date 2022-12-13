@@ -41,14 +41,14 @@
                 <div class="grid_12">
                     <div class="brand put-left">
                         <h1>
-                            <a href="index.html">
+                            <a href="profil.html">
                                 <img src="images/logomts.png" alt="Logo"/>
                             </a>
                         </h1>
                     </div>
                     <nav class="nav put-right">
                         <ul class="sf-menu">
-                            <li class="current"><a href="index.php">Home</a></li>
+                            <li class="current"><a href="profil.php">Home</a></li>
                             <li>
                                 <a href="#">Tentang Kami</a>
                                 <ul>
