@@ -1,1 +1,1 @@
-Data Guru
+data guru
