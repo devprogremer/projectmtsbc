@@ -252,7 +252,7 @@
         <div class="row">
             <div class="grid_12">
                 <h2 class="header_1 wrap_8 color_3">
-                    general information
+                    General Information
                 </h2>
             </div>
         </div>
