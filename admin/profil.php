@@ -471,8 +471,67 @@
         </ol>
       </nav>
     </div><!-- End Page Title -->
+    <div class="container">
+    <?php
+    //Include file koneksi, untuk koneksikan ke database
+    include "koneksi.php";
+    
+    //Fungsi untuk mencegah inputan karakter yang tidak sesuai
+    function input($data) {
+        $data = trim($data);
+        $data = stripslashes($data);
+        $data = htmlspecialchars($data);
+        return $data;
+    }
+    //Cek apakah ada kiriman form dari method post
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-    <section class="section">
+        $username=input($_POST["username"]);
+        $nama=input($_POST["nama"]);
+        $alamat=input($_POST["alamat"]);
+        $email=input($_POST["email"]);
+        $no_hp=input($_POST["no_hp"]);
+
+        //Query input menginput data kedalam tabel anggota
+        $sql="insert into anggota (username,nama,alamat,email,no_hp) values
+		('$username','$nama','$alamat','$email','$no_hp')";
+
+        //Mengeksekusi/menjalankan query diatas
+        $hasil=mysqli_query($kon,$sql);
+
+        //Kondisi apakah berhasil atau tidak dalam mengeksekusi query diatas
+        if ($hasil) {
+            header("Location:admin.php");
+        }
+        else {
+            echo "<div class='alert alert-danger'> Data Gagal disimpan.</div>";
+
+        }
+
+    }
+    ?>
+<table class="table table-borderless">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Position</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Start Date</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>Brandon Jacob</td>
+                    <td>Designer</td>
+                    <td>28</td>
+                    <td>2016-05-25</td>
+                  </tr>
+  </thead>
+  </tbody>
+  </table>
+   <!-- <section class="section">
       <div class="row">
         <div class="col-lg-6">
 
