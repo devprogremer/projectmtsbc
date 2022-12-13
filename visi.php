@@ -206,7 +206,7 @@
             
                     <div class="caption">
                         <h3 class="text_2 color_2">
-                            Visi Mts Bina Cendekia <br/>
+                            Visi Mts Bina Cendekia Cirebon <br/>
                         </h3>
                         <p class="text_3">
                         Sebagai salah satu bagian dari satuan pendidikan yang diselenggarakan oleh YBCUC, Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
@@ -223,7 +223,7 @@
                    
                         <div class="caption">
                             <h3 class="text_2 color_2">
-                                Misi Mts Bina Cendekia <br/>
+                                Misi Mts Bina Cendekia Cirebon <br/>
             
                             </h3>
                             <p class="text_3">
@@ -247,7 +247,7 @@
         <div class="row">
             <div class="grid_12">
                 <h2 class="header_1 wrap_8 color_3">
-                    What Clients Say
+                    Tujuan Mts Bina Cendekia Cirebon
                 </h2>
             </div>
         </div>
@@ -256,26 +256,11 @@
                 <div id="owl">
                     <div class="item">
                         <p class="text_3">
-                            Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                            commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                            laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla
-                            ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. Etiam dui eros,
-                            <br/>
-                            laoreet sit amet est vel, commodo venenatis eros. Fusce adipiscing quam id risus
-                            sagittis, non consequat lacus interdum.
-                        </p>
-                    </div>
-                    <div class="item">
-                        <p class="text_3">
-                            Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                            commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                            laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla
-                            ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. Etiam dui eros,
-                            <br/>
-                            laoreet sit amet est vel, commodo venenatis eros. Fusce adipiscing quam id risus
-                            sagittis, non consequat lacus interdum.
+                        Memiliki pengetauan dan kompetensi yang memadai untuk melanjutkan pendidikan ke jenjang pendidikan menengah atau memasuki kehidupan di masyrakat.
+Menguasai konten kurikulum MTs, baik terkait pengetahuan, keterampilan, maupun sikap sehingga menjadi warga negara terdidik.
+Memiliki keimanan yang kuat serta memiliki pengetahuan tentang Islam, terutama terkait dengan aturan-aturan dalam melaksanakan amalan-amalan ibadah wajib dan bukan wajib.
+Mampu membaca Al Qur’an secara fasih dan lancar serta mengerti maknanya.
+Memiliki kecakapan dan motivasi berwirausaha sehingga mandiri dan mampu memecahkan masalah yang dihadapi serta dapat berkontribusi secara positif kepada masyarakatnya.<br/>
                         </p>
                     </div>
                 </div>
