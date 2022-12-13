@@ -1,1 +1,1 @@
-organisasi
+organisasi Sekolah
