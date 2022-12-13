@@ -48,16 +48,16 @@
                     </div>
                     <nav class="nav put-right">
                         <ul class="sf-menu">
-                            <li class="current"><a href="index.php">Home</a></li>
+                            <li class="current"><a href="index.php">home</a></li>
                             <li>
                                 <a href="#">Tentang Kami</a>
                                 <ul>
                                     <li><a href="profil.php">Profil Sekolah</a></li>
                                     <li><a href="visi.php">Visi Dan Misi</a>
                                     <li><a href="organisasi.php">Struktur Organisasi</a>
-                                    <li><a href="dataguru.php">Data Guru</a>
+                                    <li><a href="data.php">Data Guru</a>
                                     <li><a href="akreditasi.php">Akreditasi</a>
-                                    <li><a href="#">Sarana</a>
+                                    <li><a href="sarana.php">Sarana</a>
                                      <ul>
                                             <li><a href="#">Ruang Kelas</a></li>
                                             
@@ -203,17 +203,23 @@
         <div class="grid_6">
             <div class="wrap_6">
                 <div class="box_2 maxheight2">
-                    <div class="put-left"><img src="images/index_img01.png" alt="Image 1"/></div>
+            
                     <div class="caption">
                         <h3 class="text_2 color_2">
-                            Save Your Time <br/>
-                            with Us
+                            Identitas Satuan Pendidikan <br/>
                         </h3>
                         <p class="text_3">
-                            Morem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis neque facilisis,
-                            sit amet ultries wertolio dasererat rutru.
-                        </p>
-                        <a href="#" class="btn_2">read more</a>
+                                Nama	:	MTSS BINA CENDEKIA<br/>
+                            	NPSN	:	20278791<br/>
+                             	Alamat	:	Jl. Kh. Wahid Hasyim Mertapadawetan<br/>
+ 	                    Desa/Kelurahan	:	Mertapada Wetan<br/>
+                 	Kecamatan/Kota (LN)	:	KEC. ASTANA JAPURA<br/>
+               	Kab.-Kota/Negara (LN)	:	KAB. CIREBON<br/>
+ 	          Propinsi/Luar Negeri (LN)	:	PROV. JAWA BARAT<br/>
+                    	Status Sekolah	:	SWASTA<br/>
+ 	               Bentuk Pendidikan	:	MTs<br/>
+                    </p>
+                     <a href="#" class="btn_2">read more</a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -222,15 +228,14 @@
         <div class="grid_6">
                 <div class="wrap_6">
                     <div class="box_2 maxheight2">
-                        <div class="put-left"><img src="images/index_img02.png" alt="Image 2"/></div>
+                        <div class="put-left"><img src="images/index_img2.png" alt="Image 2"/></div>
                         <div class="caption">
                             <h3 class="text_2 color_2">
-                                The Highest <br/>
-                                Quality Services
+                                Lokasi<br/>
+            
                             </h3>
                             <p class="text_3">
-                                Lorem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis neque facilisis,
-                                sit amet ultries wertolio dasererat rutrum.
+                                5JPG+G92,Mertapada Wetan,Kec.Astanajapura,Kabupaten Cirebon,Jawa Barat 45181
                             </p>
                             <a href="#" class="btn_2">read more</a>
                         </div>

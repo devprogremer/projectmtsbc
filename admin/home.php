@@ -296,14 +296,14 @@
             </a>
           </li>
           <li>
-            <a href="strutur.php">
+            <a href="struktur.php">
               <i class="bi bi-circle"></i><span>Struktur Organisasi</span>
             </a>
           </li>
           
           <li>
             <a href="guru.php">
-              <i class="bi bi-circle"></i><span>DATA GURU</span>
+              <i class="bi bi-circle"></i><span>Data Guru</span>
             </a>
           </li>
           <li>
