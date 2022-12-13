@@ -166,8 +166,7 @@
         <div class="row">
             <div class="preffix_2 grid_8">
                 <h2 class="header_1 wrap_3 color_3">
-                    The Best Marketing Services, <br/>
-                    Data & Analysis
+                    DOKUMEN DAN PERIJINAN<br/>
                 </h2>
             </div>
         </div>
@@ -175,24 +174,63 @@
             <div class="grid_12">
                 <div class="box_1">
                     <p class="text_3">
-                        Visit our official blog for more detailed information about this
-                        <a href="http://blog.templatemonster.com/free-website-templates/" rel="nofollow">
-                            freebie.
-                        </a>
-                        <br/>
-                        Want more
-                        <a href="http://www.templatemonster.com/properties/topic/business-services/"
-                           rel="nofollow">
-                            business themes
-                        </a>?
-                        Check out the same name category at
-                        TemplateMonster.com.
-                        <br/>
-                        <br/>
-                        Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                        commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                        laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                        consectetur orci sed
+                 <center><table class="table"><center>
+ </thead>
+  <tbody>
+   </tr>
+    <tr>
+      <td colspan="2">Kementerian Pembina :</td>
+      <td>Kementerian agama</td>
+    </tr>
+  </tr>
+    <tr>
+      <td colspan="2">Naungan :</td>
+      <td>-</td>
+    </tr>
+    </tr>
+    <tr>
+      <td colspan="2">NPYP</td>
+      <td>-</td>
+    </tr>
+    </tr>
+    <tr>
+      <td colspan="2">No. SK. Pendirian:</td>
+      <td>Kw.10.4/4/PP.00.5/3035/2010</td>
+    </tr>
+  </tr>
+  </tr>
+    <tr>
+      <td colspan="2">Tanggal SK. Pendirian :</td>
+      <td>25-05-2010</td>
+    </tr>
+  </tr>
+  <tr>
+      <td colspan="2">Nomor SK Operasional :</td>
+      <td>32-10.09/MTs/089/2010</td>
+    </tr>
+  </tr>
+  <tr>
+      <td colspan="2">Tanggal SK Operasional :</td>
+      <td>30-06-2010</td>
+    </tr>
+  </tr>
+  <tr>
+      <td colspan="2">File SK Operasional :</td>
+      <td>Lihat SK Operasional</td>
+    </tr>
+  </tr>
+  </tr>
+    <tr>
+      <td colspan="2">Tanggal Upload SK Op. :</td>
+      <td>2015-11-19 11:39:13.297</td>
+    </tr>
+    </tr>
+    <tr>
+      <td colspan="2">Akreditasi :</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
                     </p>
                 </div>
             </div>
@@ -251,9 +289,7 @@
     <div class="container">
         <div class="row">
             <div class="grid_12">
-                <h2 class="header_1 wrap_8 color_3">
-                    General Information
-                </h2>
+           <center> <font size = "4"> <font face = "times new roman"><h2>GENERAL INFORMATION</h2></font><center>
             </div>
         </div>
         <div class="row">
