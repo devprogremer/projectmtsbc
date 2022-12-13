@@ -157,6 +157,7 @@
                     amet uesas
                 </p>
                 <a class="btn_2" href="#">read more</a></div>
+
         </div>
     </div>
 </div>
@@ -251,7 +252,7 @@
         <div class="row">
             <div class="grid_12">
                 <h2 class="header_1 wrap_8 color_3">
-                    What Clients Say
+                    general information
                 </h2>
             </div>
         </div>
@@ -260,26 +261,16 @@
                 <div id="owl">
                     <div class="item">
                         <p class="text_3">
-                            Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                            commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                            laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla
-                            ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. Etiam dui eros,
+                     Madrasah Tsanawiyah (MTs) Bina Cendekia adalah satuan pendidikan yang berada dalam jurisdiksi Kementerian Agama (Kemenag). Menurut UU Nomor 20 Tahun 2003, tentang Sistem Pendidikan Nasional, satuan pendidikan ini menjadi terminal jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) yang berada pada jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Sebagai bagian dari sistem pendidikan nasional, satuan pendidikan ini dapat menjadi alternatif bagi lulusan Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) untuk melanjutkan pendidikan dalam rangka melaksanakan wajib belajar 9 tahun. Satu satunya perbedaan antara pendidikan di MTs dan di SMP adalah jumlah jam pelajaran yang dialokasikan untuk Pendidikan Agama Islam (PAI) yang pada kurikulum MTs dialokasikan 6 jam pelajaran, 
+                    sedangkan pada kurikulum SMP hanya 2 jam pelajaran.      
                             <br/>
-                            laoreet sit amet est vel, commodo venenatis eros. Fusce adipiscing quam id risus
-                            sagittis, non consequat lacus interdum.
                         </p>
                     </div>
                     <div class="item">
                         <p class="text_3">
-                            Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                            commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                            laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            consectetur orci sed nulla facilisis consequat. Curabitur vel lorem sit amet nulla
-                            ullamcorper fermentum. In vitae varius augue, eu consectetur ligula. Etiam dui eros,
+                     Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam program pendidikan Pesantren. Target yang ingin dicapai adalah setiap peserta didik mampu membaca Al Qur’an secara fasih dan lancar serta memahami dasar-dasar fiqih ibadah dan mu’amalah Islami, dan mampu melaksanakan prakteknya. Dalam pelaksanaannya,
+                     peserta didik dapat mencapai target itu dengan mengikuti kegiatan komplementer di Pesantren. Melalui cara ini diharapkan setiap peserta didik memperoleh kompetensi terkait dengan mata pelajaran PAI melebihi yang ditargetkan untuk dicapai melalui pelaksanaan kurikulum PAI di SMP.       
                             <br/>
-                            laoreet sit amet est vel, commodo venenatis eros. Fusce adipiscing quam id risus
-                            sagittis, non consequat lacus interdum.
                         </p>
                     </div>
                 </div>
