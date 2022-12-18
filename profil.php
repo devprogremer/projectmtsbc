@@ -66,18 +66,18 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="#">Elearning</a></li>
+                            <li><a href="elearning.php">Elearning</a></li>
                             <li>
-                                <a href="#">Pendaftaran</a>
+                                <a href="pendaftaran.php">Pendaftaran</a>
                                 <ul>
-                                    <li><a href="#">Brosur</a></li>
-                                    <li><a href="#">Pendaftaran</a>
+                                    <li><a href="brosur.php">Brosur</a></li>
+                                    <li><a href="pendaftaran.php">Pendaftaran</a>
                             </ul>
                             <li>
                                 <a href="#">Galeri Kegiatan</a>
                                 <ul>
-                                    <li><a href="#">Kegiatan Sekolah</a></li>
-                                    <li><a href="#">Ekstrakulikuler</a>
+                                    <li><a href="kegiatan.php">Kegiatan Sekolah</a></li>
+                                    <li><a href="ekstrakulikuler.php">Ekstrakulikuler</a>
                                                                            
                                         </ul>
 
