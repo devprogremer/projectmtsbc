@@ -99,19 +99,19 @@
 <section id="content"><div class="ic">MTS Bina Cendekia 2022</div>
 <div class="camera-wrapper">
     <div id="camera" class="camera-wrap">
-        <div data-src="images/index_slide03.jpg">
+        <div data-src="images/index_slide01.jpg">
             <div class="fadeIn camera_caption">
                 <!--<h2 class="text_1 color_1">Solutions that you need!</h2>-->
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index-1_img18.jpg">
+        <div data-src="images/index_slide02.jpg">
             <div class="fadeIn camera_caption">
                 <h2 class="text_1 color_1">Sekolah Kita Gudangnya Akhlakul Karimah</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index-1_img19.jpg">
+        <div data-src="images/index_slide03.jpg">
             <div class="fadeIn camera_caption">
                 <h2 class="text_1 color_1">Selamat Datang Di Mts Bina Cendekia Cirebon</h2>
                 <a class="btn_1" href="#">More info</a>
@@ -165,7 +165,8 @@
         <div class="row">
             <div class="preffix_2 grid_8">
                 <h2 class="header_2 wrap_3 color_3">
-                    Program Study Mts Bina Cendekia Cirebon
+                    <center>Mts Bina Cendekia Cirebon<center></br>
+                        <center> Sekolah Kita Gudangnya Akhlakul Karimah <center>
                 </h2>
             </div>
         </div>
@@ -181,7 +182,7 @@
                             Visi Mts Bina Cendekia Cirebon <br/>
                         </h3>
                         <p class="text_3">
-                        Sebagai salah satu bagian dari satuan pendidikan yang diselenggarakan oleh YBCUC, Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
+                        Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
                     </p>
                      <a href="#" class="btn_2">read more</a>
                     </div>
