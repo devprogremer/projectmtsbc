@@ -66,18 +66,18 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="elearning.php">Elearning</a></li>
+                            <li><a href="#">Elearning</a></li>
                             <li>
-                                <a href="pendaftaran.php">Pendaftaran</a>
+                                <a href="#">Pendaftaran</a>
                                 <ul>
-                                    <li><a href="brosur.php">Brosur</a></li>
-                                    <li><a href="pendaftaran.php">Pendaftaran</a>
+                                    <li><a href="#">Brosur</a></li>
+                                    <li><a href="#">Pendaftaran</a>
                             </ul>
                             <li>
                                 <a href="#">Galeri Kegiatan</a>
                                 <ul>
-                                    <li><a href="kegiatan.php">Kegiatan Sekolah</a></li>
-                                    <li><a href="ekstrakulikuler.php">Ekstrakulikuler</a>
+                                    <li><a href="#">Kegiatan Sekolah</a></li>
+                                    <li><a href="#">Ekstrakulikuler</a>
                                                                            
                                         </ul>
 
@@ -157,20 +157,6 @@
                     amet uesas
                 </p>
                 <a class="btn_2" href="#">read more</a></div>
-                </br>
-                </div>
- <font size = "4"> <font face = "times new roman"><h2> A. Sejarah Perkembangan Madrasah Tsanawiyah Bina Cendekia </h2></font>
- </p>Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. 
-Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali  mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA.
-Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT).
-Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya: <br/>
-1.      H. Hasanuddin, S.Ag <br/>
-2.      H. Djidinuddin <br/>
-3.      Drs. H. Wahuri <br/>
-4.      Mohammad Qushoy, M.Pd <br/>
-
-Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
-        </div>
         </div>
     </div>
 </div>
@@ -178,78 +164,29 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
     <div class="container">
         <div class="row">
             <div class="preffix_2 grid_8">
-                <h2 class="header_1 wrap_3 color_3">
-                    DOKUMEN DAN PERIJINAN<br/>
-                </h2>
+            <div class="header_1 wrap_3 color_2">
+             Sejarah Perkembangan Madrasah Tsanawiyah Bina Cendekia 
+            </div>
             </div>
         </div>
         <div class="row">
             <div class="grid_12">
-                <div class="box_1">
-                    <p class="text_3">
-                 <center><table class="table"><center>
- </thead>
-  <tbody>
-   </tr>
-    <tr>
-      <td colspan="2">Kementerian Pembina :</td>
-      <td>Kementerian agama</td>
-    </tr>
-  </tr>
-    <tr>
-      <td colspan="2">Naungan :</td>
-      <td>-</td>
-    </tr>
-    </tr>
-    <tr>
-      <td colspan="2">NPYP</td>
-      <td>-</td>
-    </tr>
-    </tr>
-    <tr>
-      <td colspan="2">No. SK. Pendirian:</td>
-      <td>Kw.10.4/4/PP.00.5/3035/2010</td>
-    </tr>
-  </tr>
-  </tr>
-    <tr>
-      <td colspan="2">Tanggal SK. Pendirian :</td>
-      <td>25-05-2010</td>
-    </tr>
-  </tr>
-  <tr>
-      <td colspan="2">Nomor SK Operasional :</td>
-      <td>32-10.09/MTs/089/2010</td>
-    </tr>
-  </tr>
-  <tr>
-      <td colspan="2">Tanggal SK Operasional :</td>
-      <td>30-06-2010</td>
-    </tr>
-  </tr>
-  <tr>
-      <td colspan="2">File SK Operasional :</td>
-      <td>Lihat SK Operasional</td>
-    </tr>
-  </tr>
-  </tr>
-    <tr>
-      <td colspan="2">Tanggal Upload SK Op. :</td>
-      <td>2015-11-19 11:39:13.297</td>
-    </tr>
-    </tr>
-    <tr>
-      <td colspan="2">Akreditasi :</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+                <div class="box_4">
+                    <p class="text_">
+                    Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. 
+                    Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali  mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA.
+                    Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT).
+                    Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:</br>
+                    1. H. Hasanuddin, S.Ag </br>
+                    2. H. Djidinuddin </br>
+                    3. Drs. H. Wahuri </br>
+                    4. Mohammad Qushoy, M.Pd </br>
+                    Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
                     </p>
                 </div>
             </div>
         </div>
     </div>
-    </div>jmn7
 </div>
 <div class="container">
     <div class="row wrap_1">
@@ -288,7 +225,7 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
             
                             </h3>
                             <p class="text_3">
-                                5JPG+G92,Mertapada Wetan,Kec.Astanajapura,Kabupaten Cirebon,Jawa Barat 45181
+                            5JPG+G92,Mertapada Wetan,Kec.Astanajapura,Kabupaten Cirebon,Jawa Barat 45181
                             </p>
                             <a href="#" class="btn_2">read more</a>
                         </div>
@@ -303,7 +240,9 @@ Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib
     <div class="container">
         <div class="row">
             <div class="grid_12">
-           <center> <font size = "4"> <font face = "times new roman"><h2>GENERAL INFORMATION</h2></font><center>
+                <h2 class="header_1 wrap_8 color_4">
+                    General Information
+                </h2>
             </div>
         </div>
         <div class="row">
