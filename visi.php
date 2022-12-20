@@ -107,13 +107,13 @@
         </div>
         <div data-src="images/index_slide02.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit!</h2>
+                <h2 class="text_1 color_1">Sekolah Kita Gudangnya Akhlakul Karimah</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
         <div data-src="images/index_slide03.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit amet, consectetur!</h2>
+                <h2 class="text_1 color_1">Selamat Datang Di Mts Bina Cendekia Cirebon</h2>
                 <a class="btn_1" href="#">More info</a>
             </div>
         </div>
@@ -164,40 +164,13 @@
     <div class="container">
         <div class="row">
             <div class="preffix_2 grid_8">
-                <h2 class="header_1 wrap_3 color_3">
-                    The Best Marketing Services, <br/>
-                    Data & Analysis
+                <h2 class="header_2 wrap_3 color_3">
+                    <center>Mts Bina Cendekia Cirebon<center></br>
+                        <center> Sekolah Kita Gudangnya Akhlakul Karimah <center>
                 </h2>
             </div>
         </div>
-        <div class="row">
-            <div class="grid_12">
-                <div class="box_1">
-                    <p class="text_3">
-                        Visit our official blog for more detailed information about this
-                        <a href="http://blog.templatemonster.com/free-website-templates/" rel="nofollow">
-                            freebie.
-                        </a>
-                        <br/>
-                        Want more
-                        <a href="http://www.templatemonster.com/properties/topic/business-services/"
-                           rel="nofollow">
-                            business themes
-                        </a>?
-                        Check out the same name category at
-                        TemplateMonster.com.
-                        <br/>
-                        <br/>
-                        Vivamus at magna non nunc tristique rhoncus. Aliquam nibh ante, egestas id dictum a,
-                        commodo luctus libero. Praesent faucibus malesuada faucibus. Donec laoreet metus id
-                        laoreet malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                        consectetur orci sed
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+        
 <div class="container">
     <div class="row wrap_1">
         <div class="grid_6">
@@ -209,7 +182,7 @@
                             Visi Mts Bina Cendekia Cirebon <br/>
                         </h3>
                         <p class="text_3">
-                        Sebagai salah satu bagian dari satuan pendidikan yang diselenggarakan oleh YBCUC, Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
+                        Madrasah Tsanawiyah (MTs) Bina Cendekia mempunyai visi menjadi OUTSTANDING ENTREPRENEURIAL ISLAMIC JUNIOR HIGH SCHOOL. Satuan pendidikan ini menyelenggarakan pendidikan Islami yang unggul, pada jenjang pendidikan dasar, guna membangun sumber daya insani Muslim yang berjiwa pewirausaha.
                     </p>
                      <a href="#" class="btn_2">read more</a>
                     </div>
@@ -246,7 +219,7 @@
     <div class="container">
         <div class="row">
             <div class="grid_12">
-                <h2 class="header_1 wrap_8 color_3">
+                <center><h2 class="header_2 wrap_8 color_3"><center>
                     Tujuan Mts Bina Cendekia Cirebon
                 </h2>
             </div>
