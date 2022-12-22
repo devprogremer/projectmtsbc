@@ -119,8 +119,8 @@
         </div>
     </div>
 </div>
-<h2 class="header_1 wrap_8 color_2 " style="text-align:left">Daftar Data Guru </h2>
-<p class="wrap_8" style=text-align:"left">Berikut Daftar Data Guru Mts Bina Cendekia </p>
+<h2 class="header_1 wrap_7 color_2 " style="text-align:left">Daftar Data Guru </h2>
+<p class="wrap_5" style=text-align:"left">Berikut Daftar Data Guru Mts Bina Cendekia </p>
 <center><img src="images/DataGuru.png" width="1000" height="700"><center>
 
 <div class="container">
