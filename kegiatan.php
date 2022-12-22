@@ -1,1 +1,1 @@
-kegiatan
+kegiatan sekolah

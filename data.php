@@ -70,14 +70,14 @@
                             <li>
                                 <a href="#">Pendaftaran</a>
                                 <ul>
-                                    <li><a href="#">Brosur</a></li>
-                                    <li><a href="#">Pendaftaran</a>
+                                    <li><a href="brosur.php">Brosur</a></li>
+                                    <li><a href="pendaftaran.php">Pendaftaran</a>
                             </ul>
                             <li>
                                 <a href="#">Galeri Kegiatan</a>
                                 <ul>
-                                    <li><a href="#">Kegiatan Sekolah</a></li>
-                                    <li><a href="#">Ekstrakulikuler</a>
+                                    <li><a href="kegiatan.php">Kegiatan Sekolah</a></li>
+                                    <li><a href="ekstrakulikuler.php">Ekstrakulikuler</a>
                                                                            
                                         </ul>
 
