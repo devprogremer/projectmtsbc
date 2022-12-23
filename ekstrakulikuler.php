@@ -121,7 +121,44 @@
 </div>
 <h2 class="header_1 wrap_7 color_2 " style="text-align:left">☞︎Daftar Ekstrakulikuler </h2>
 <p class="wrap_5" style=text-align:"left">Berikut Daftar Ekstrakulikuler Mts Bina Cendekia </p>
-
+<div class="container">
+    <div class="row wrap_1">
+        <div class="grid_6">
+            <div class="wrap_6">
+                <div class="box_1 maxheight2">
+                    <div class="put-left"><img src="images/pramuka.jpg" alt="pramuka.jpg"/></div>
+                    <div class="caption">
+                        <h3 class="text_2 color_2">
+                            TUJUAN PRAMUKA<br/>
+                        </h3>
+                        <p class="text_3">
+                        Pada dasarnya kegiatan Kepramukaan memiliki tujuan untuk melatih generasi muda agar memaksimalkan setiap potensi yang ada di dalam dirinya, baik itu intelektual, spiritual, sosial, dan fisik.
+                        </p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <div class="grid_6">
+                <div class="wrap_6">
+                    <div class="box_1 maxheight2">
+                        <div class="put-left"><img src="images/silat.jpg" alt="silat.jpg"/></div>
+                        <div class="caption">
+                            <h3 class="text_2 color_2">
+                                TUJUAN PENCAK SILAT <br/>   
+                            </h3>
+                            <p class="text_3">
+                            Tujuan utama olahraga bela diri pencak silat adalah sebagai pendidikan jasmani dan seni. Selain itu, terkadang ketenangan rohani juga menjadi tujuan utamanya.
+                            Salah satu olahraga di Indonesia yang berguna untuk bela diri dapat Anda temukan dari tujuan pencak silat
+                            </p>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+           
+        </div>
+    </div>
+</div>
 <div class="container">
     <div class="row wrap_9 wrap_4 wrap_10">
         <div class="grid_12">
