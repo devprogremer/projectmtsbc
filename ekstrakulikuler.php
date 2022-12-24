@@ -158,7 +158,44 @@
            
         </div>
     </div>
-</div>
+</div><div class="container">
+    <div class="row wrap_1">
+        <div class="grid_6">
+            <div class="wrap_6">
+                <div class="box_1 maxheight2">
+                    <div class="put-left"><img src="images/Paskibra.png" alt="Paskibra.png"/></div>
+                    <div class="caption">
+                        <h3 class="text_2 color_2">
+                            TUJUAN PASKIBRA<br/>
+                        </h3>
+                        <p class="text_3">
+                        Menghimpun dan membina para anggota agar menjadi siswa siswi dan warga negara indonesia yang beriman dan bertaqwa kpad tuhan YME, berjiwa pancasila, setia dan patuh pada NKRI dan menjadi pandu ibu pertiwi
+                        Mengamalkan dan mengamankan PAncasila.
+                        </p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <div class="grid_6">
+                <div class="wrap_6">
+                    <div class="box_1 maxheight2">
+                        <div class="put-left"><img src="images/badminton.jpg" alt="badminton.jpg"/></div>
+                        <div class="caption">
+                            <h3 class="text_2 color_2">
+                                TUJUAN BULU TANGKIS <br/>   
+                            </h3>
+                            <p class="text_3">
+                            Secara teknis, tujuan dari permainan bulu tangkis adalah meraih angka dengan cara memukul shuttlecock menggunakan raket sampai shuttlecock tersebut melewati net dan jatuh di bidang permainan lawan.
+                            tujuan permainan bulu tangkis dimanfaatkan untuk tujuan rekreasi, menjaga dan meningkatkan kesehatan, serta meningkatkan prestasi.
+                            </p>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+           
+        </div>
+    </div>
 <div class="container">
     <div class="row wrap_9 wrap_4 wrap_10">
         <div class="grid_12">
