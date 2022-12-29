@@ -170,7 +170,7 @@
                         </h3>
                         <p class="text_3">
                         Menghimpun dan membina para anggota agar menjadi siswa siswi dan warga negara indonesia yang beriman dan bertaqwa kpad tuhan YME, berjiwa pancasila, setia dan patuh pada NKRI dan menjadi pandu ibu pertiwi
-                        Mengamalkan dan mengamankan PAncasila.
+                        Mengamalkan dan mengamankan Pancasila.
                         </p>
                     </div>
                     <div class="clearfix"></div>
