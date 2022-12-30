@@ -105,13 +105,13 @@
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index_slide02.jpg">
+        <div data-src="images/index_slide2.jpeg">
             <div class="fadeIn camera_caption">
                 <h2 class="text_1 color_1">Sekolah Kita Gudangnya Akhlakul Karimah</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index_slide03.jpg">
+        <div data-src="images/index_slide3.jpg">
             <div class="fadeIn camera_caption">
                 <h2 class="text_1 color_1">Selamat Datang Di Mts Bina Cendekia Cirebon</h2>
                 <a class="btn_1" href="#">More info</a>
