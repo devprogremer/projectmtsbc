@@ -99,7 +99,7 @@
 <section id="content"><div class="ic">MTS Bina Cendekia 2022</div>
 <div class="camera-wrapper">
     <div id="camera" class="camera-wrap">
-        <div data-src="images/index_slide01.jpg">
+        <div data-src="images/index_slide1.jpg">
             <div class="fadeIn camera_caption">
                 <!--<h2 class="text_1 color_1">Solutions that you need!</h2>-->
                 <a class="btn_1" href="#">Daftar</a>
