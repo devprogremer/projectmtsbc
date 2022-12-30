@@ -165,7 +165,7 @@
         <div class="row">
             <div class="preffix_2 grid_8">
             <div class="header_1 wrap_3 color_2">
-             Sejarah Perkembangan Madrasah Tsanawiyah Bina Cendekia 
+             SEJARAH Perkembangan Madrasah Tsanawiyah Bina Cendekia 
             </div>
             </div>
         </div>
