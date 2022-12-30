@@ -107,13 +107,13 @@
         </div>
         <div data-src="images/index_slide02.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit!</h2>
+                <h2 class="text_1 color_1">SELAMAT DATANG DI MTS BINA CENDEKIA CIREBON</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
         <div data-src="images/index_slide03.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit amet, consectetur!</h2>
+                <h2 class="text_1 color_1">SEKOLAH KITA GUDANGNYA AKHLAKUL KARIMAH</h2>
                 <a class="btn_1" href="#">More info</a>
             </div>
         </div>
