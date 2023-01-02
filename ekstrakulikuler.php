@@ -224,7 +224,7 @@
             <div class="grid_12">
                 <p class="info text_4 color_4">
                     © <span id="copyright-year"></span> | <a href="#">Dev Progremer</a> <br/>
-                    MTS Bina Cendekia Cirebon<a href="http://www.mtsbinacendekia.sch.id/" rel="nofollow">TemplateMonster.com</a>
+                    MTS Bina Cendekia Cirebon<a href="http://www.mtsbinacendekia.sch.id/" rel="nofollow">Mts Bina Cendekia</a>
                 </p>
             </div>
         </div>
