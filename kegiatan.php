@@ -107,109 +107,33 @@
         </div>
         <div data-src="images/index_slide2.jpeg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Selamat Datang di MTS Bina Cendekia Cirebon</h2>
+                <h2 class="text_1 color_1">Sekolah Kita Gudangnya Akhlakul Karimah</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
         <div data-src="images/index_slide3.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Sekolah Kita Gudangnya Akhlakul Karimah</h2>
+                <h2 class="text_1 color_1">Selamat Datang Di Mts Bina Cendekia Cirebon</h2>
                 <a class="btn_1" href="#">More info</a>
             </div>
         </div>
     </div>
 </div>
-<div class="container">
-    <div class="row wrap_1 wrap_5">
-        <div class="grid_3">
-            <div class="box_1">
-                <div class="icon_1"></div>
-                <h3 class="text_2 color_2 maxheight1"><a href="#">Sambutan Kepala Sekolah</a></h3>
-                <p class="text_3 color_2 maxheight">
-                    Lorem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis
-                </p>
-                <a class="btn_2" href="#">read more</a></div>
-        </div>
-        <div class="grid_3">
-            <div class="box_1">
-                <div class="icon_2"></div>
-                <h3 class="text_2 color_2 maxheight1"><a href="#">Marketing Research</a></h3>
-                <p class="text_3 color_2 maxheight">
-                    Dorem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis
-                </p>
-                <a class="btn_2" href="#">read more</a></div>
-        </div>
-        <div class="grid_3">
-            <div class="box_1">
-                <div class="icon_3"></div>
-                <h3 class="text_2 color_2 maxheight1"><a href="#">Employee Benefits</a></h3>
-                <p class="text_3 color_2 maxheight">
-                    Kerem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis
-                </p>
-                <a class="btn_2" href="#">read more</a></div>
-        </div>
-        <div class="grid_3">
-            <div class="box_1">
-                <div class="icon_4"></div>
-                <h3 class="text_2 color_2 maxheight1"><a href="#">Risk Management</a></h3>
-                <p class="text_3 color_2 maxheight">
-                    Norem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis neque facilisis, sit
-                    amet uesas
-                </p>
-                <a class="btn_2" href="#">read more</a></div>
-        </div>
-    </div>
-</div>
-<div class="bg_1 wrap_2 wrap_4">
-    <div class="container">
-        <div class="row">
-            <div class="preffix_2 grid_8">
-            <div class="header_1 wrap_3 color_2">
-             Sejarah Perkembangan Madrasah Tsanawiyah Bina Cendekia 
-            </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="grid_12">
-                <div class="box_4">
-                    <p class="text_">
-                    Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. 
-                    Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali  mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA.
-                    Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT).
-                    Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:</br>
-                    1. H. Hasanuddin, S.Ag </br>
-                    2. H. Djidinuddin </br>
-                    3. Drs. H. Wahuri </br>
-                    4. Mohammad Qushoy, M.Pd </br>
-                    Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<h2 class="header_1 wrap_7 color_2 " style="text-align:left">☞︎Daftar Ekstrakulikuler </h2>
+<p class="wrap_5" style=text-align:"left">Berikut Daftar Ekstrakulikuler Mts Bina Cendekia </p>
 <div class="container">
     <div class="row wrap_1">
         <div class="grid_6">
             <div class="wrap_6">
-                <div class="box_2 maxheight2">
-            
+                <div class="box_1 maxheight2">
+                    <div class="put-left"><img src="images/pramuka.jpg" alt="pramuka.jpg"/></div>
                     <div class="caption">
                         <h3 class="text_2 color_2">
-                            Identitas Satuan Pendidikan <br/>
+                            TUJUAN PRAMUKA<br/>
                         </h3>
                         <p class="text_3">
-                                Nama	:	MTSS BINA CENDEKIA<br/>
-                            	NPSN	:	20278791<br/>
-                             	Alamat	:	Jl. Kh. Wahid Hasyim Mertapadawetan<br/>
- 	                    Desa/Kelurahan	:	Mertapada Wetan<br/>
-                 	Kecamatan/Kota (LN)	:	KEC. ASTANA JAPURA<br/>
-               	Kab.-Kota/Negara (LN)	:	KAB. CIREBON<br/>
- 	          Propinsi/Luar Negeri (LN)	:	PROV. JAWA BARAT<br/>
-                    	Status Sekolah	:	SWASTA<br/>
- 	               Bentuk Pendidikan	:	MTs<br/>
-                    </p>
-                     <a href="#" class="btn_2">read more</a>
+                        Pada dasarnya kegiatan Kepramukaan memiliki tujuan untuk melatih generasi muda agar memaksimalkan setiap potensi yang ada di dalam dirinya, baik itu intelektual, spiritual, sosial, dan fisik.
+                        </p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -217,17 +141,16 @@
         </div>
         <div class="grid_6">
                 <div class="wrap_6">
-                    <div class="box_2 maxheight2">
-                        <div class="put-left"><img src="images/index_img2.png" alt="Image 2"/></div>
+                    <div class="box_1 maxheight2">
+                        <div class="put-left"><img src="images/silat.jpg" alt="silat.jpg"/></div>
                         <div class="caption">
                             <h3 class="text_2 color_2">
-                                Lokasi<br/>
-            
+                                TUJUAN PENCAK SILAT <br/>   
                             </h3>
                             <p class="text_3">
-                            5JPG+G92,Mertapada Wetan,Kec.Astanajapura,Kabupaten Cirebon,Jawa Barat 45181
+                            Tujuan utama olahraga bela diri pencak silat adalah sebagai pendidikan jasmani dan seni. Selain itu, terkadang ketenangan rohani juga menjadi tujuan utamanya.
+                            Salah satu olahraga di Indonesia yang berguna untuk bela diri dapat Anda temukan dari tujuan pencak silat
                             </p>
-                            <a href="#" class="btn_2">read more</a>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -235,38 +158,44 @@
            
         </div>
     </div>
-</div>
-<div class="bg_1 wrap_7 wrap_5">
-    <div class="container">
-        <div class="row">
-            <div class="grid_12">
-                <h2 class="header_1 wrap_8 color_4">
-                    General Information
-                </h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="grid_12">
-                <div id="owl">
-                    <div class="item">
+</div><div class="container">
+    <div class="row wrap_1">
+        <div class="grid_6">
+            <div class="wrap_6">
+                <div class="box_1 maxheight2">
+                    <div class="put-left"><img src="images/Paskibra.png" alt="Paskibra.png"/></div>
+                    <div class="caption">
+                        <h3 class="text_2 color_2">
+                            TUJUAN PASKIBRA<br/>
+                        </h3>
                         <p class="text_3">
-                     Madrasah Tsanawiyah (MTs) Bina Cendekia adalah satuan pendidikan yang berada dalam jurisdiksi Kementerian Agama (Kemenag). Menurut UU Nomor 20 Tahun 2003, tentang Sistem Pendidikan Nasional, satuan pendidikan ini menjadi terminal jenjang pendidikan dasar yang setara dengan Sekolah Menengah Pertama (SMP) yang berada pada jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Sebagai bagian dari sistem pendidikan nasional, satuan pendidikan ini dapat menjadi alternatif bagi lulusan Sekolah Dasar (SD) atau Madrasah Ibtidaiyah (MI) untuk melanjutkan pendidikan dalam rangka melaksanakan wajib belajar 9 tahun. Satu satunya perbedaan antara pendidikan di MTs dan di SMP adalah jumlah jam pelajaran yang dialokasikan untuk Pendidikan Agama Islam (PAI) yang pada kurikulum MTs dialokasikan 6 jam pelajaran, 
-                    sedangkan pada kurikulum SMP hanya 2 jam pelajaran.      
-                            <br/>
+                        Menghimpun dan membina para anggota agar menjadi siswa siswi dan warga negara indonesia yang beriman dan bertaqwa kpad tuhan YME, berjiwa pancasila, setia dan patuh pada NKRI dan menjadi pandu ibu pertiwi
+                        Mengamalkan dan mengamankan Pancasila.
                         </p>
                     </div>
-                    <div class="item">
-                        <p class="text_3">
-                     Pelaksanaan pendidikan di MTs Bina Cendekia mengintegrasikan PAI ke dalam program pendidikan Pesantren. Target yang ingin dicapai adalah setiap peserta didik mampu membaca Al Qur’an secara fasih dan lancar serta memahami dasar-dasar fiqih ibadah dan mu’amalah Islami, dan mampu melaksanakan prakteknya. Dalam pelaksanaannya,
-                     peserta didik dapat mencapai target itu dengan mengikuti kegiatan komplementer di Pesantren. Melalui cara ini diharapkan setiap peserta didik memperoleh kompetensi terkait dengan mata pelajaran PAI melebihi yang ditargetkan untuk dicapai melalui pelaksanaan kurikulum PAI di SMP.       
-                            <br/>
-                        </p>
-                    </div>
+                    <div class="clearfix"></div>
                 </div>
             </div>
         </div>
+        <div class="grid_6">
+                <div class="wrap_6">
+                    <div class="box_1 maxheight2">
+                        <div class="put-left"><img src="images/badminton.jpg" alt="badminton.jpg"/></div>
+                        <div class="caption">
+                            <h3 class="text_2 color_2">
+                                TUJUAN BULU TANGKIS <br/>   
+                            </h3>
+                            <p class="text_3">
+                            Secara teknis, tujuan dari permainan bulu tangkis adalah meraih angka dengan cara memukul shuttlecock menggunakan raket sampai shuttlecock tersebut melewati net dan jatuh di bidang permainan lawan.
+                            tujuan permainan bulu tangkis dimanfaatkan untuk tujuan rekreasi, menjaga dan meningkatkan kesehatan, serta meningkatkan prestasi.
+                            </p>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+           
+        </div>
     </div>
-</div>
 <div class="container">
     <div class="row wrap_9 wrap_4 wrap_10">
         <div class="grid_12">
@@ -294,8 +223,8 @@
         <div class="row">
             <div class="grid_12">
                 <p class="info text_4 color_4">
-                    © <span id="copyright-year"></span> | <a href="#">Privacy Policy</a> <br/>
-                    Website designed by <a href="http://www.templatemonster.com/" rel="nofollow">TemplateMonster.com</a>
+                    © <span id="copyright-year"></span> | <a href="#">Dev Progremer</a> <br/>
+                    MTS Bina Cendekia Cirebon<a href="http://www.mtsbinacendekia.sch.id/" rel="nofollow">TemplateMonster.com</a>
                 </p>
             </div>
         </div>
