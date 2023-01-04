@@ -121,81 +121,35 @@
 </div>
 <h2 class="header_1 wrap_7 color_2 " style="text-align:left">☞︎Daftar Ekstrakulikuler </h2>
 <p class="wrap_5" style=text-align:"left">Berikut Daftar Ekstrakulikuler Mts Bina Cendekia </p>
-<div class="container">
-    <div class="row wrap_1">
-        <div class="grid_6">
-            <div class="wrap_6">
-                <div class="box_1 maxheight2">
-                    <div class="put-left"><img src="images/pramuka.jpg" alt="pramuka.jpg"/></div>
-                    <div class="caption">
-                        <h3 class="text_2 color_2">
-                            TUJUAN PRAMUKA<br/>
-                        </h3>
-                        <p class="text_3">
-                        Pada dasarnya kegiatan Kepramukaan memiliki tujuan untuk melatih generasi muda agar memaksimalkan setiap potensi yang ada di dalam dirinya, baik itu intelektual, spiritual, sosial, dan fisik.
-                        </p>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
-        <div class="grid_6">
-                <div class="wrap_6">
-                    <div class="box_1 maxheight2">
-                        <div class="put-left"><img src="images/silat.jpg" alt="silat.jpg"/></div>
-                        <div class="caption">
-                            <h3 class="text_2 color_2">
-                                TUJUAN PENCAK SILAT <br/>   
-                            </h3>
-                            <p class="text_3">
-                            Tujuan utama olahraga bela diri pencak silat adalah sebagai pendidikan jasmani dan seni. Selain itu, terkadang ketenangan rohani juga menjadi tujuan utamanya.
-                            Salah satu olahraga di Indonesia yang berguna untuk bela diri dapat Anda temukan dari tujuan pencak silat
-                            </p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-           
-        </div>
-    </div>
-</div><div class="container">
-    <div class="row wrap_1">
-        <div class="grid_6">
-            <div class="wrap_6">
-                <div class="box_1 maxheight2">
-                    <div class="put-left"><img src="images/Paskibra.png" alt="Paskibra.png"/></div>
-                    <div class="caption">
-                        <h3 class="text_2 color_2">
-                            TUJUAN PASKIBRA<br/>
-                        </h3>
-                        <p class="text_3">
-                        Menghimpun dan membina para anggota agar menjadi siswa siswi dan warga negara indonesia yang beriman dan bertaqwa kpad tuhan YME, berjiwa pancasila, setia dan patuh pada NKRI dan menjadi pandu ibu pertiwi
-                        Mengamalkan dan mengamankan Pancasila.
-                        </p>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-        </div>
-        <div class="grid_6">
-                <div class="wrap_6">
-                    <div class="box_1 maxheight2">
-                        <div class="put-left"><img src="images/badminton.jpg" alt="badminton.jpg"/></div>
-                        <div class="caption">
-                            <h3 class="text_2 color_2">
-                                TUJUAN BULU TANGKIS <br/>   
-                            </h3>
-                            <p class="text_3">
-                            Secara teknis, tujuan dari permainan bulu tangkis adalah meraih angka dengan cara memukul shuttlecock menggunakan raket sampai shuttlecock tersebut melewati net dan jatuh di bidang permainan lawan.
-                            tujuan permainan bulu tangkis dimanfaatkan untuk tujuan rekreasi, menjaga dan meningkatkan kesehatan, serta meningkatkan prestasi.
-                            </p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-           
-        </div>
-    </div>
+<center><div class="card" style="width: 25rem;">
+  <img src="images/Gerakanpramuka.jpg.crdownload" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">TUJUAN PRAMUKA</h5>
+    <p class="text">Pramuka memiliki peranan yang penting untuk membentuk karakter generasi muda. Dalam pramuka terdapat pendidikan yang membentuk karakter seseorang menjadi disiplin, sopan, patuh terhadap aturan, kecakapan dalam berfikir, serta kreatif.</p>
+  </div>
+</div>
+<div class="card" style="width: 30rem;">
+  <img src="images/pencaksilat.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">TUJUAN PENCAK SILAT</h5>
+    <p class="card-text">Pencak silat mengajarkan mengenai pengenalan terhadap diri sendiri sebagai seorang makhluk yang percaya terhadap adanya Tuhan Yang Maha Esa. Oleh sebab itu, pencak silat bukan hanya suatu pembinaan yang bertujuan pada aspek seni, bela diri, maupun olah raga saja, namun juga bertujuan untuk mengembangkan watak luhur, kepribadian, karakter, sikap ksatria, percaya diri, serta takwa terhadap Tuhan yang Maha Esa.</p>
+  </div>
+</div>
+<div class="card" style="width: 25rem;">
+  <img src="images/bulutangkis.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">TUJUAN BULUTANGKIS</h5>
+    <p class="card-text">Tujuan dari olahraga bulu tangkis yaitu untuk memukul kok dengan menggunakan raket hingga melewati jaring atau net dan mendarat di dalam area lapangan lawan. Jika hal tersebut sudah berhasil dilakukan, maka kita sudah memenangkan reli. Dengan memenangkan reli yang sudah ditentukan, maka kita akan memenangkan pertandingan.
+Seperti halnya bentuk olahraga ataupun permainan lainnya, bulu tangkis juga banyak memberikan manfaat untuk tubuh kita.</p>
+  </div>
+</div>
+<div class="card" style="width: 40rem;">
+  <img src="images/Paskibra.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">TUJUAN PASKIBRA</h5>
+    <p class="card-text"> Menghimpun dan membina para anggota agar menjadi siswa-siswi dan warga Negara Indonesia yang beriman dan bertaqwa kepada Tuhan Yang Maha Esa, berjiwa Pancasila, setia dan patuh pada Negara Kesatuan Republik Indonesia dan menjadi Pandu Ibu Pertiwi</p>
+  </div>
+</div>
 <div class="container">
     <div class="row wrap_9 wrap_4 wrap_10">
         <div class="grid_12">
