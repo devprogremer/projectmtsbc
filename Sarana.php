@@ -118,9 +118,11 @@
             </div>
         </div>
     </div>
-</div>
-<center><font size = "5"> <font face = "Times New Roman"><h1><b>Dengan kelas yang nyaman kamu dapat belajar dengan optimal,<br/>maka dari itu MTS Tsanawiyah Cirebon, menyediakan kelas yang memadai bagi kalian<br/>semua supaya kegiatan belajar dan mengajar menjadi lebih maksimal.</h1>
-
+</br>
+    <h3 class="text_2 color_2">
+    Dengan kelas yang nyaman kamu dapat belajar dengan optimal,</br>maka dari itu MTS Tsanawiyah Cirebon, menyediakan kelas yang memadai</br>bagi kalian semua supaya kegiatan belajar dan mengajar menjadi lebih maksimal.
+ <br/></h3></br>
+ <img src="images/kelas.jpeg" width="650" height="750" align="right">
 <div class="container">
     <div class="row wrap_9 wrap_4 wrap_10">
         <div class="grid_12">
