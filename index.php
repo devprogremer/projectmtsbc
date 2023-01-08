@@ -57,7 +57,7 @@
                                     <li><a href="organisasi.php">Struktur Organisasi</a>
                                     <li><a href="data.php">Data Guru</a>
                                     <li><a href="akreditasi.php">Akreditasi</a>
-                                    <li><a href="sarana">Sarana</a>
+                                    <li><a href="sarana.php">Sarana</a>
                                      <ul>
                                             <li><a href="#">Ruang Kelas</a></li>
                                             
@@ -99,21 +99,21 @@
 <section id="content"><div class="ic">MTS Bina Cendekia 2022</div>
 <div class="camera-wrapper">
     <div id="camera" class="camera-wrap">
-        <div data-src="images/index_slide01.jpg">
+        <div data-src="images/index_slide1.jpg">
             <div class="fadeIn camera_caption">
                 <!--<h2 class="text_1 color_1">Solutions that you need!</h2>-->
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index_slide02.jpg">
+        <div data-src="images/index_slide2.jpeg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit!</h2>
+                <h2 class="text_1 color_1">SELAMAT DATANG DI MTS BINA CENDEKIA CIREBON</h2>
                 <a class="btn_1" href="#">Daftar</a>
             </div>
         </div>
-        <div data-src="images/index_slide03.jpg">
+        <div data-src="images/index_slide3.jpg">
             <div class="fadeIn camera_caption">
-                <h2 class="text_1 color_1">Lorem ipsum dolor sit amet, consectetur!</h2>
+                <h2 class="text_1 color_1">SEKOLAH KITA GUDANGNYA AKHLAKUL KARIMAH</h2>
                 <a class="btn_1" href="#">More info</a>
             </div>
         </div>
