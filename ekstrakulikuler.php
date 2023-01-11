@@ -122,13 +122,13 @@
 <h2 class="header_1 wrap_7 color_2 " style="text-align:left">☞︎Daftar Ekstrakulikuler </h2>
 <p class="wrap_5" style=text-align:"left">Berikut Daftar Ekstrakulikuler Mts Bina Cendekia </p>
 <center><div class="card" style="width: 25rem;">
-  <img src="images/Gerakanpramuka.jpg.crdownload" class="card-img-top" alt="...">
+  <img src="images/pramuka.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN PRAMUKA</h5>
     <p class="text">Pramuka memiliki peranan yang penting untuk membentuk karakter generasi muda. Dalam pramuka terdapat pendidikan yang membentuk karakter seseorang menjadi disiplin, sopan, patuh terhadap aturan, kecakapan dalam berfikir, serta kreatif.</p>
   </div>
 </div>
-<div class="card" style="width: 30rem;">
+<div class="card" style="width: 25rem;">
   <img src="images/pencaksilat.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN PENCAK SILAT</h5>
