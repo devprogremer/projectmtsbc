@@ -165,7 +165,7 @@
         <div class="row">
             <div class="preffix_2 grid_8">
                 <h2 class="header_1 wrap_3 color_3">
-                    The Best Marketing Services, <br/>
+                    MAULANA JAMALUDIN <br/>
                     Data & Analysis
                 </h2>
             </div>
