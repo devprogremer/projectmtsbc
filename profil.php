@@ -123,12 +123,16 @@
     <div class="row wrap_1 wrap_5">
         <div class="grid_3">
             <div class="box_1">
+
                 <div class="icon_3"></div>
                 <h3 class="text_2 color_2 maxheight1"><a href="sambutan.php">Sambutan Kepala Sekolah</a></h3>
+
+                <div class="icon_1"></div>
+              
                 <p class="text_3 color_2 maxheight">
-                    Sambutan Kepala Sekolah
+                    Lorem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis
                 </p>
-                <a class="btn_2" href="sambutan.php">read more</a></div>
+                <a class="btn_2" href="#">read more</a></div>
         </div>
         <div class="grid_3">
             <div class="box_1">
@@ -163,10 +167,29 @@
 <div class="bg_1 wrap_2 wrap_4">
     <div class="container">
         <div class="row">
-          
+            <div class="preffix_2 grid_8">
+            <div class="header_1 wrap_3 color_2">
+             Sejarah Perkembangan Madrasah Tsanawiyah Bina Cendekia 
+            </div>
+            </div>
         </div>
-       
-
+        <div class="row">
+            <div class="grid_12">
+                <div class="box_4">
+                    <p class="text_justify">
+                    Sejarah berdirinya Yayasan Bina Cendekia Utama Cirebon (YBCUC) dimulai dari direalisaikannya komitmen Prof. Dr, Mohammad Ali, MA, untuk memberi tunjangan setiap bulan kepada para guru Al Qur’an dan para guru pengajian kitab agama Islam klasik, serta merehabilitasi musholla, masjid jami’ dan membeli sarana dan prasarana madarsah sesuai kebutuhan, mulai 10 Maret, 2002. 
+                    Beliau yang sejak tahun 1980 mejadi Dosen, dan pada tahun 2001 dikukuhkan sebagai Profesor, di Universitas Pendidikan Indonesia (UPI), Bandung adalah salah seorang putra dari Almaghfur lah K.H. M. Sya’roni, guru pengajian kitab agama Islam yang pada tahun 1985-1990 menjadi Kepala Madrasah Aliyah PATWA. Pada tahun 1980, Ali  mendirikan yayasan YABISA yang menyelenggarakan SMA YABISA, namun pada tahun 1992 yayasan itu merger dan menjadi yayasan PATWA.
+                    Komitmen beliau itu sesungguhnya merupakan kepedulian terhadap pendidikan, khususnya keberlangsungan penyelenggaraan pendidikan dan da’wah Islamiyah. Oleh karena itu, agar komitmen tersebut berkelanjutan, pada tahun 2008 beliau mendirikan sebuah yayasan baru yang dikukuhkan dengan Akta Pendirian Yayasan Nomor 03, Tanggal 1 September, 2008. Yayasan beserta Anggaran Dasarnya disahkan oleh Kementerian Hukum dan Hak Asasi Manusia (Kemenkumham) dengan SK Menkumham RI Nomor AHU-324.AH.01.04, Tahun 2009. Dewasa ini yayasan baru itu telah membuka 6 (enam) satuan pendidikan, baik pada jenjang pendidikan dasar, pendidikan menengah, maupun pendidikan tinggi. Empat satuan pendidikan menyelenggarakan pendidikan yang berada pada jurisdiksi Kementerian Agama (Kemenag) dan tiga satuan pendidikan menyelenggarakan pendidikan dalam jurisdiksi Kementerian Pendidikan dan Kebudayaan (Kemdikbud). Saat ini yayasan sedang mengajukan proposal pendirian satuan pendidikan ketujuh kepada Kemdikbud, RI, yaitu Institut Sains dan Teknologi Terapan (ISTT).
+                    Salah satu instansi lembaga y6ang ada didalamnya adalah MTs Bina Cendekia. Adapun lokasinya masih dalam komplek Yayasan Bina Cendekia Utama Cirebon. MTs Bina Cendekia berdiri pada tahun 2010. Adapun para kepala Madrasah yang pernah menjabat diantaranya:</br>
+                    1. H. Hasanuddin, S.Ag </br>
+                    2. H. Djidinuddin </br>
+                    3. Drs. H. Wahuri </br>
+                    4. Mohammad Qushoy, M.Pd </br>
+                    Sebagai konsekuensi Lembaga yang dikelola oleh Dapartemen Agama tidak sama nasib dan perjuangannya dengan Lembaga pendidikannya yang dikelola oleh dinas pada umumnya mayoritas masyartakat purwakarta pada umumnya lebih memilih SMP (Sekolah Menengah Pertama) untuk Menyekolahkan anaknya ketimbang masuk MTs, apalgai siswa yang mempunyai kompetensi dasar lebih tinggi, sehingga pada umumnya orang tua yang berkemampuan ekonomi menengah kebawahlah yang mau menyekolahkan putra-putrinya ke sekolah MTs, maka sudah barang tentu input siswa yang diterima di MTs tidak sebaik yang diterima di MTs.
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <div class="container">
