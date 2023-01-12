@@ -123,7 +123,7 @@
     <div class="row wrap_1 wrap_5">
         <div class="grid_3">
             <div class="box_1">
-                <div class="icon_1"></div>
+                <div class="icon_3"></div>
                 <h3 class="text_2 color_2 maxheight1"><a href="sambutan.php">Sambutan Kepala Sekolah</a></h3>
                 <p class="text_3 color_2 maxheight">
                     Sambutan Kepala Sekolah
