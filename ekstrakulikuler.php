@@ -121,21 +121,21 @@
 </div>
 <h2 class="header_1 wrap_7 color_2 " style="text-align:left">☞︎Daftar Ekstrakulikuler </h2>
 <p class="wrap_5" style=text-align:"left">Berikut Daftar Ekstrakulikuler Mts Bina Cendekia </p>
-<center><div class="card" style="width: 25rem;">
-  <img src="images/Gerakanpramuka.jpg.crdownload" class="card-img-top" alt="...">
+<center><div class="card" style="width: 40rem;">
+  <img src="images/Pramukaa.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN PRAMUKA</h5>
     <p class="text">Pramuka memiliki peranan yang penting untuk membentuk karakter generasi muda. Dalam pramuka terdapat pendidikan yang membentuk karakter seseorang menjadi disiplin, sopan, patuh terhadap aturan, kecakapan dalam berfikir, serta kreatif.</p>
   </div>
 </div>
-<div class="card" style="width: 30rem;">
+<div class="card" style="width: 20rem;">
   <img src="images/pencaksilat.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN PENCAK SILAT</h5>
     <p class="card-text">Pencak silat mengajarkan mengenai pengenalan terhadap diri sendiri sebagai seorang makhluk yang percaya terhadap adanya Tuhan Yang Maha Esa. Oleh sebab itu, pencak silat bukan hanya suatu pembinaan yang bertujuan pada aspek seni, bela diri, maupun olah raga saja, namun juga bertujuan untuk mengembangkan watak luhur, kepribadian, karakter, sikap ksatria, percaya diri, serta takwa terhadap Tuhan yang Maha Esa.</p>
   </div>
 </div>
-<div class="card" style="width: 25rem;">
+<div class="card" style="width: 20rem;">
   <img src="images/bulutangkis.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN BULUTANGKIS</h5>
@@ -143,7 +143,7 @@
 Seperti halnya bentuk olahraga ataupun permainan lainnya, bulu tangkis juga banyak memberikan manfaat untuk tubuh kita.</p>
   </div>
 </div>
-<div class="card" style="width: 40rem;">
+<div class="card" style="width: 30rem;">
   <img src="images/Paskibra.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">TUJUAN PASKIBRA</h5>
