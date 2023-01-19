@@ -12,7 +12,10 @@ if ( empty($get))
 {
    include ('master/dashboard.php');	
 }
-
+elseif ($get=='profil')
+{
+  include ('master/profil.php');
+}
 elseif ($get=='anggota')
 {
   include ('master/anggota.php');

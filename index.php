@@ -124,11 +124,11 @@
         <div class="grid_3">
             <div class="box_1">
                 <div class="icon_1"></div>
-                <h3 class="text_2 color_2 maxheight1"><a href="#">Sambutan Kepala Sekolah</a></h3>
+                <h3 class="text_2 color_2 maxheight1"><a href="sambutan.php">Sambutan Kepala Sekolah</a></h3>
                 <p class="text_3 color_2 maxheight">
                     Lorem ipsum dolor sit amettetur dipiscing elit. In mollis erat mattis
                 </p>
-                <a class="btn_2" href="#">read more</a></div>
+                <a class="btn_2" href="sambutan.php">read more</a></div>
         </div>
         <div class="grid_3">
             <div class="box_1">

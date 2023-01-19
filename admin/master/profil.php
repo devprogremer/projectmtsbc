@@ -39,7 +39,7 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
           <h1>
-             Anggota
+             Profil
             
           </h1>
           <ol class="breadcrumb">
@@ -163,7 +163,7 @@
 <div class="modal-content">
 <div class="modal-header">
 
-<h4 class="modal-title" id="myModalLabel">Tambah Anggota</h4>
+<h4 class="modal-title" id="myModalLabel">Tambah Profil</h4>
 </div>
    
 <div class="modal-body center"> 
