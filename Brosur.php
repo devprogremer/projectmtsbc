@@ -102,7 +102,7 @@
         <div data-src="images/ppdb5.jpeg" >
             <div class="fadeIn camera_caption">
                 <!--<h2 class="text_1 color_1">Solutions that you need!</h2>-->
-                <a class="btn_1" href="#">Daftar</a>
+                <a class="btn_1" href="http://localhost/projectmtsbc-1/ppdb/">Daftar</a>
             </div>
         </div>
         <div data-src="images/index_slide2.jpeg">
