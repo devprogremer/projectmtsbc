@@ -18,6 +18,11 @@
             </li>
             
             <li>
+              <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=profil">
+                <i class="fa fa-user"></i> <span>Profil Sekolah</span>  
+              </a>
+            </li>
+            <li>
               <a href="<?php $_SERVER[SCRIPT_NAME];?>?page=anggota">
                 <i class="fa fa-user"></i> <span>Anggota</span>  
               </a>
